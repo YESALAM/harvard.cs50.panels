@@ -1,0 +1,13 @@
+iframe{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    border: none;
+    right: 0px;
+    top: 4px;
+}
+
+.panel-bar {
+    top: 1px !important;
+}
+

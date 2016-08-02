@@ -1,0 +1,17 @@
+{
+  "name": "gitter50",
+  "description": "",
+  "version": "0.0.1",
+  "author": "Tobias Büschel",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "plugins": {
+    "gitter50": {}
+  },
+  "categories": [
+    "miscellaneous"
+  ],
+  "licenses": []
+}
