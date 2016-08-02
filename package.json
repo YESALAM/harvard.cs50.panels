@@ -1,0 +1,16 @@
+{
+  "name": "panels50",
+  "description": "Cloud9 Panel for Reference50",
+  "version": "0.0.1",
+  "author": "Tobias Büschel",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cs50/harvard.cs50.panels"
+  },
+  "plugins": {
+    "panels50": {}
+  },
+  "categories": [
+    "miscellaneous"
+  ]
+}
