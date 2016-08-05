@@ -1,16 +1,17 @@
 {
-  "name": "panels50",
-  "description": "Cloud9 Panel for Reference50",
+  "name": "gitter50",
+  "description": "",
   "version": "0.0.1",
   "author": "Tobias Büschel",
   "repository": {
     "type": "git",
-    "url": "https://github.com/cs50/harvard.cs50.panels"
+    "url": ""
   },
   "plugins": {
-    "panels50": {}
+    "gitter50": {}
   },
   "categories": [
     "miscellaneous"
-  ]
+  ],
+  "licenses": []
 }

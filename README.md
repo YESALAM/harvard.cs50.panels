@@ -1,1 +1,1 @@
-# harvard.cs50.panels
+This is the Cloud9 simple plugin example
